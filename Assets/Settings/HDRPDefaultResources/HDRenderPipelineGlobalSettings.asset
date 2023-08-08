@@ -42,7 +42,7 @@ MonoBehaviour:
     maximumLODLevelMode: 0
     maximumLODLevelQualityLevel: 0
     sssQualityMode: 0
-    sssQualityLevel: 0
+    sssQualityLevel: 2
     sssCustomSampleBudget: 20
     msaaMode: 1
     materialQuality: 0
@@ -70,7 +70,7 @@ MonoBehaviour:
   afterPostProcessCustomPostProcesses: []
   beforeTAACustomPostProcesses: []
   lightLayerName0: Light Layer default
-  lightLayerName1: Light Layer 1
+  lightLayerName1: Fog
   lightLayerName2: Light Layer 2
   lightLayerName3: Light Layer 3
   lightLayerName4: Light Layer 4
